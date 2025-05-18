@@ -1,3 +1,5 @@
+Automation-Practice-master
+
 Frameworks included in the project:
 Selenium Webdriver
 Rest-Assured
