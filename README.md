@@ -17,3 +17,8 @@ Implementar la Pirámide de Automatización de Pruebas mediante dos niveles de a
 Diseño del proyecto: Implementa el patrón Page Object Model (POM), pruebas basadas en datos y un enfoque de diseño fluido (method chaining).
 Cobertura de pruebas: Incluye pruebas tanto a nivel de servicio como de interfaz gráfica de usuario (GUI), siguiendo la pirámide de automatización de pruebas.
 Informes y registros: Genera informes detallados utilizando Allure y Extent Reports, con integración en GitHub Actions para la ejecución continua.
+
+
+automatizacion_python_selenium
+
+Este proyecto es una prueba técnica que automatiza la navegación en un sitio web, completando un formulario de contacto con un correo electrónico falso y verificando la validación del mismo. Utiliza Python, Selenium WebDriver, unittest y HtmlTestRunner para generar informes de prueba
