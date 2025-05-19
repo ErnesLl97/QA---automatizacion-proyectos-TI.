@@ -22,3 +22,20 @@ Informes y registros: Genera informes detallados utilizando Allure y Extent Repo
 automatizacion_python_selenium
 
 Este proyecto es una prueba técnica que automatiza la navegación en un sitio web, completando un formulario de contacto con un correo electrónico falso y verificando la validación del mismo. Utiliza Python, Selenium WebDriver, unittest y HtmlTestRunner para generar informes de prueba
+
+
+Automatización de sitios web de comercio electrónico con Selenium
+Este proyecto se realizó para aprender automatización con Selenium (Python).
+
+Sitio web de comercio electrónico ficticio: http://tutorialsninja.com/demo/
+Patrón de diseño: Modelo de Objetos de Página (POM)
+Informes: HTML-testrunner
+
+Se han automatizado los siguientes requisitos:
+
+Abrir el sitio web de comercio electrónico.
+Seleccionar un producto con una cantidad superior a 1 y añadirlo al carrito.
+Seleccionar un producto, actualizar la fecha de entrega y añadirlo al carrito.
+Ver el carrito y finalizar la compra como invitado.
+Ingresar todos los datos de entrega y finalización de la compra.
+Confirmar el pedido y comprobar el mensaje de confirmación
