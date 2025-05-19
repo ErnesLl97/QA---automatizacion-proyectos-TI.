@@ -1,4 +1,4 @@
-Automation-Practice-master
+.... Automation-Practice-master....
 
 Frameworks included in the project:
 Selenium Webdriver
@@ -19,13 +19,12 @@ Cobertura de pruebas: Incluye pruebas tanto a nivel de servicio como de interfaz
 Informes y registros: Genera informes detallados utilizando Allure y Extent Reports, con integración en GitHub Actions para la ejecución continua.
 
 
-automatizacion_python_selenium
+....automatizacion_python_selenium....
 
 Este proyecto es una prueba técnica que automatiza la navegación en un sitio web, completando un formulario de contacto con un correo electrónico falso y verificando la validación del mismo. Utiliza Python, Selenium WebDriver, unittest y HtmlTestRunner para generar informes de prueba
 
 
-Automatización de sitios web de comercio electrónico con Selenium
-Este proyecto se realizó para aprender automatización con Selenium (Python).
+....Automatización de sitios web de comercio electrónico con Selenium  (Python) ....
 
 Sitio web de comercio electrónico ficticio: http://tutorialsninja.com/demo/
 Patrón de diseño: Modelo de Objetos de Página (POM)
